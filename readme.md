@@ -53,7 +53,8 @@ This PCB is part of a family of PCBs that can be used together to create  a full
 **Relay/Fan Control Boards** (choose one)
 * [Mechanical Relay Module](https://github.com/nebhead/pifire-relay-module)
 * [Solid State Relay Module](https://github.com/nebhead/pifire-relay-module-SSR)
-* [Solid State Relay + PWM Fan Module](https://github.com/nebhead/pifire-relay-pwm-module-SSR) - Coming Soon! 
+* [Solid State Relay + PWM Fan Module](https://github.com/nebhead/pifire-relay-pwm-module-ssr) - Original Design
+* [Solid State Relay + PWM Fan Module Alternate](https://github.com/nebhead/pifire-relay-pwm-module-ssr-alt) - Updated Design (Designed with help from @labmonkeyrat on Discord)
 
 **Probe Device Board** (optional)
 * [ADS Board](https://github.com/nebhead/pifire-ads-board) 
